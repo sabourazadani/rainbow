@@ -1,3 +1,8 @@
-Public void display() {
+public void display() {
    System.out.println("Welcome to Git");
+}
+
+ String name; 
+public String method1() {
+  return name; 
 }
